@@ -1,0 +1,18 @@
+{
+  "event": [
+    {
+      "event_name": "Origami Crane Wedding Planners",
+      "start_date": "2023-12-10",
+      "start_time": "13:59",
+      "end_date1": "2023-11-16",
+      "end_time1": "13:59",
+      "tickets": "free",
+      "require_approval": true,
+      "capacity": "limited",
+      "visiblity": "public",
+      "meeting_type": "virtual",
+      "image": "https://helpx.adobe.com/content/dam/help/en/photoshop/using/convert-color-image-black-white/jcr_content/main-pars/before_and_after/image-before/Landscape-Color.jpg",
+      "id": 1
+    }
+  ]
+}

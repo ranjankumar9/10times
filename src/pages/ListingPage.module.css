@@ -1,0 +1,51 @@
+
+.past>label{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap:10px;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 30px;
+  box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+  padding: 21px;
+
+}
+.card>div{
+    text-align: left;
+}
+.card>div>img{
+    border-radius: 5px;
+}
+.card>div>h1{
+    font-size: 25px;
+    font-weight: 600;
+    color: green;
+}
+.people{
+    display: flex;
+    align-items: center;
+    gap:10px;
+    font-size: 20px;
+}
+.people>button{
+    background-color: blue;
+    padding: 1px;
+    width: 60px;
+    border-radius: 5px;
+    font-size: 14px;
+}
+.Loading{
+    width: 300px;
+    margin: 10rem auto;
+}
+.video {
+  display: flex;
+  align-items: center;
+  gap:10px;
+}
