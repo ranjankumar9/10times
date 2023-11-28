@@ -71,10 +71,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 # Home
-![light](https://github.com/ranjankumar9/10times/assets/107936455/68622b1e-008a-4471-ad7c-d3096aae805f)
+![light1](https://github.com/ranjankumar9/10times/assets/107936455/a65c626e-2624-49b7-8af7-ccc7d4db4a50)
 
 # Event 
-![light1](https://github.com/ranjankumar9/10times/assets/107936455/a65c626e-2624-49b7-8af7-ccc7d4db4a50)
+![light](https://github.com/ranjankumar9/10times/assets/107936455/68622b1e-008a-4471-ad7c-d3096aae805f)
 
 # Home (Black screen)
 ![black](https://github.com/ranjankumar9/10times/assets/107936455/c81f8f74-59b7-40fd-b982-05ad78658bb2)
